@@ -45,7 +45,7 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
-              "baseHref": "/",
+              "baseHref": "/websdk-sample-angular-live/",
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
